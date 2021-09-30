@@ -16,7 +16,7 @@ li {
   display: inline-block;
 }
 
-b {
+a {
   display: block;
   padding: 20px;
   font-family: sans-serif;
@@ -51,7 +51,7 @@ li div ul li {
   display: block;
 }
 
-li div ul li b {
+li div ul li a {
   font-size: 1em;
   color: white;
 }
